@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaber Salama</h1>
-<h3 align="center">A passionate Backend developer from Gaza</h3>
+<h3 align="center">A  Backend developer(laravel) from Gaza</h3>
 
 
 
