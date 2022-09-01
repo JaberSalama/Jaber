@@ -8,7 +8,7 @@
 <br> <br> 
 
 
-<p align="justify">I love Making Teaching People To Code and make Awesome stuffs With It. Through that i learned a lot in my life and i am now establishing myself as a <b> Web Developer</b> Specially i like <b>laravel</b>
+<p align="justify">I love Make Teaching To Code and make Awesome stuffs With It. Through that i learned a lot in my life and i am now establishing myself as a <b> Web Developer</b> Specially i like <b>laravel</b>
 Scikit and Panda</b>. So I am a multi language Person you can say But I Really love Working in PHP Laravel and Reactjs as ia am now purely a Web Developer.
 
 ### A web developer (Laravel) from Gaza:
